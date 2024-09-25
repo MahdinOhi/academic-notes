@@ -1,0 +1,8 @@
+- Do not use these type of words: It's, don't.
+- It is better not to using superlative degree if it is not proven qualifiedly.
+- If connecting 2 proper lines use <span style="background:#ff4d4f">;</span>
+- Do not use full stop in outline
+- Better to avoid and, so on, etc.
+- Avoid using too.
+- Better to avoid very so good type expression
+- Do not do narratives, like adding personal details/ individual experiences.
